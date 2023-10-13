@@ -1,0 +1,122 @@
+
+body{
+    margin: 0;
+    background: linear-gradient(rgb(210, 210, 210), rgb(143, 143, 143));
+}
+
+.section_principal{
+    display: inline-flex;
+    align-items: center;
+}
+
+.titulo_principal{
+    background-color: rgb(175, 184, 189);
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    border-radius: 0.1em;
+    margin: 0.3em;
+}
+
+.div_principal{
+    background: rgb(255, 255, 255);
+    height: 27px;
+    padding: 10px;
+    border-radius: 0.5em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+
+}
+
+.pesquisar{
+    border: none;
+    background: none;
+    outline: none;
+    padding: 0;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    line-height: 40px;
+    align-items: center;
+}
+
+.lupa_btn{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.produto{
+    color: rgb(47, 47, 57);
+    font-size: 50px;
+    text-align: left;
+}
+
+.product{
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+div{
+    background-color: rgb(211, 211, 211);
+    width: 230px;
+    border-radius: 0.5rem;
+    margin: 1em;
+}
+
+.produtos_Bloco{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.img_Bloco{
+    height: 100;
+    width: 200px;
+}
+
+p{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+.img_Bloco1{
+    height: 100;
+    width: 200px;
+}
+
+
+.img_Bloco2{
+    height: 100;
+    width: 200px;
+}
+
+.img_Bloco3{
+    height: 100;
+    width: 200px;
+}
+
+.img_Bloco4{
+    height: 100;
+    width: 200px;
+}
+
+.img_Bloco5{
+    height: 100;
+    width: 200px;
+}
+
+.img_Bloco6{
+    height: 100;
+    width: 200px;
+}
+
+a{
+    text-decoration: none;
+}
